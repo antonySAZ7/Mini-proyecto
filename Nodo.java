@@ -51,7 +51,7 @@ public class Nodo implements Comparable<Nodo>{
 
     }
 
-    @Override
+
     public boolean eshoja(){
         return (izquierdo ==null && derecho == null);
         
